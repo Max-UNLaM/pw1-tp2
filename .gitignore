@@ -56,3 +56,8 @@ fabric.properties
 .idea/workspace.xml
 
 /vendor/
+Sera borrado .idea/inspectionProfiles/
+Sera borrado .idea/misc.xml
+Sera borrado .idea/modules.xml
+Sera borrado .idea/php.xml
+Sera borrado .idea/pw1-tp2.iml
